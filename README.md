@@ -1,4 +1,3 @@
-# Hello
+# JS Starter Kit
 
-## Test JS Kit
  
